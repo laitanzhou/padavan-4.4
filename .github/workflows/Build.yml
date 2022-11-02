@@ -22,7 +22,7 @@ jobs:
       matrix:
         include:
           - build_variant: "mt7621"
-            targets: "K2P"
+            targets: "JCG-Q20"
          # - build_variant: "mt7621-usb-1"
          #   targets: "ZTE-E8820S"
          #  - build_variant: "mt7621-usb-2"
